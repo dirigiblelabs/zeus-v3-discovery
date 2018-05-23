@@ -1,0 +1,5 @@
+{
+	'description': 'Containers view',
+	'extensionPoint': 'launchpad-zeus-accounts-view',
+	'module': 'zeus-discovery/views/Discovery/view.js'
+}
